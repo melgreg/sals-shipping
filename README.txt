@@ -1,0 +1,1 @@
+A Codecademy project for calculating the costs of various shipping methods.
